@@ -1,10 +1,11 @@
 import './App.css';
-import CounterView from './components/CounterView';
+// import CounterView from './components/CounterView';
+import Postview from './components/PostView';
 
 function App() {
   return (
     <div className="App">
-      <CounterView />
+      <Postview />
     </div>
   );
 }
